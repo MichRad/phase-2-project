@@ -1,3 +1,8 @@
-# a. Microsoft Genre Analysis
-### Proposal for the new Microsoft film production company of suggested genres to invest in based on past ROI (return on investment) and popularity among audiences.
+# Microsoft Genre Analysis
+### Proposal for the new Microsoft film production company
 ## Table of Contents
+(#Import environments)
+(#Load CSV and TSV files)
+(#Explore files)
+(#Clean Data)
+(#Analyze)
